@@ -1,6 +1,19 @@
 baseURL = "https://rcvalenzuela.github.io/"
+#baseURL = "http://localhost:1313/"
+
 languageCode = "en-us"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
+
+[menu]
+	[[menu.main]]
+		name = "About"
+		identifier = "about"
+		url = "pages/about"
+  [[menu.main]]
+    name = "Resources"
+    identifier = "resources"
+    url = "pages/resources"
+
 theme = "hamburg"
 title = "René Valenzuela"
