@@ -9,11 +9,11 @@ defaultContentLanguageInSubdir = "true"
 	[[menu.main]]
 		name = "About"
 		identifier = "about"
-		url = "pages/about"
+		url = "/about/"
   [[menu.main]]
     name = "Resources"
     identifier = "resources"
-    url = "pages/resources"
+    url = "/resources/"
 
-theme = "hamburg"
+theme = "noteworthy"
 title = "René Valenzuela"
