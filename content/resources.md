@@ -22,6 +22,7 @@ draft: false
 
 - [Statistical Rethinking Winter 2018-2019](
   https://github.com/rmcelreath/statrethinking_winter2019). Richard McElreath
+- [Deep Learning. CS230 Fall 2018](https://cs230.stanford.edu/lecture/). Andrew Ng
 
 ## Books
 
