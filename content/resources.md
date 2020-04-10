@@ -1,7 +1,6 @@
 ---
 title: "Resources"
 date: 2020-04-06T01:15:40+01:00
-tags: ["page"]
 draft: false
 ---
 
@@ -20,9 +19,37 @@ draft: false
 
 ## Course Lectures
 
+- [Concepts of Probability Spring 2020 (website)](
+  https://www.stat134.org/index.html). Berkeley STAT134
+- [Probability and Random Processes Berkeley EECS126 (website)](
+  https://inst.eecs.berkeley.edu/~ee126/sp20/index.html)
 - [Statistical Rethinking Winter 2018-2019](
   https://github.com/rmcelreath/statrethinking_winter2019). Richard McElreath
+- [Foundations of Data Science (website)](http://data8.org/). Berkeley
+- [Introduction to AI. Berkeley CS188](http://ai.berkeley.edu/home.html)
+- [Introduction to Machine Learning Spring 2020 (website)](
+  https://people.eecs.berkeley.edu/~jrs/189/). Berkeley CS289A
+- [Designing, Visualizing and Understanding Deep Neural Networks Spring 2019 (website)](
+  https://bcourses.berkeley.edu/courses/1478831) Berkeley CS182
 - [Deep Learning. CS230 Fall 2018](https://cs230.stanford.edu/lecture/). Andrew Ng
+- Deep Unsupervised Learning. Berkeley
+    - [Spring 2019 (website and youtube videos)](
+      https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+    - [Spring 2020 (website and youtube videos)](
+      https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+
+## Repositories
+
+- [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries).  A list of NLP paper summaries intended to make NLP techniques and topics more approachable and accessible.
+
+## Conferences
+
+- Conference on Uncertainty in Artificial Intelligence.
+    - UAI2020: [website](http://www.auai.org/uai2020/)
+
+## Youtube videos
+
+- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 3Blue1Brown
 
 ## Books
 
