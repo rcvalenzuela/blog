@@ -35,6 +35,7 @@ draft: false
 ### People
 
 - [Peter Norvig](www.norvig.com)
+- [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html)
 
 ### Institutions/Labs
 
@@ -52,6 +53,9 @@ draft: false
 
 - [Concepts of Probability Spring 2020 (website)](
   https://www.stat134.org/index.html). Berkeley STAT134
+- [Introdution to Stochastic Processes](
+  https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/index.htm)
+  MIT 18.445
 - [Probability and Random Processes Berkeley EECS126 (website)](
   https://inst.eecs.berkeley.edu/~ee126/sp20/index.html)
 - [Statistical Rethinking Winter 2018-2019](
@@ -70,11 +74,30 @@ draft: false
 - [Designing, Visualizing and Understanding Deep Neural Networks Spring 2019 (website)](https://bcourses.berkeley.edu/courses/1478831) Berkeley CS182
 - [Foundations of Data Science (website)](http://data8.org/). Berkeley
 - [Full stack deep learning](https://fullstackdeeplearning.com/)
-- [Introduction to AI. Berkeley CS188](http://ai.berkeley.edu/home.html)
+- [Introduction to AI. Berkeley CS188 Fall 2014](
+  https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/lecture_videos.html)
 - [Introduction to Machine Learning Spring 2020 (website)](
   https://people.eecs.berkeley.edu/~jrs/189/). Berkeley CS289A
+- [Machine Learning](
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/index.htm)
+  MIT 6.867
+- [Machine learning with Graphs](http://web.stanford.edu/class/cs224w/) Stanford CS224W
 - [Neural Networks](http://www.dmi.usherb.ca/~larocheh/neural_networks/description.html) Hugo Larochelle
 - [Probabilistic Graphical Models Winter 2017-2018 (website)](https://cs.stanford.edu/~ermon/cs228/index.html) Stanford CS228
+- [Reinforcement Learning Winter 2019 (website)](http://web.stanford.edu/class/cs234/CS234Win2019/index.html) Stanford CS234
+
+### Finance
+
+- [Analytics of Finance](
+  https://ocw.mit.edu/courses/sloan-school-of-management/15-450-analytics-of-finance-fall-2010/index.htm)
+  MIT 15.450
+- [Topics in Mathematics with applications in Finance](
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/index.htm)
+  MIT 18.S096
+
+### Other mathematics
+
+- [Spectral Graph Theory](https://www.cs.yale.edu/homes/spielman/561/)
 
 ## Repositories
 
@@ -91,6 +114,13 @@ draft: false
 
 - [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 3Blue1Brown
 
+## Journals
+
+- [Annals of Applied Probability](https://projecteuclid.org/info/euclid.aoap)
+- [Journal of Machine Learning Research](http://www.jmlr.org/)
+- [Synthesis Lectures on Artificial Intelligence and Machine Learning](https://www.morganclaypool.com/toc/aim/1/1)
+- [The American Statistician](https://www.tandfonline.com/toc/utas20/current)
+
 ## Books
 
 ### Online
@@ -101,6 +131,7 @@ draft: false
 - [The Elements of Statistical Learning](
   https://web.stanford.edu/~hastie/ElemStatLearn/). Trevor Hastie, Robert
   Tibshirani and Jerome Friedman
+- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 - [Forecasting. Principles and Practices](https://otexts.com/fpp2/)
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/). Claus
   O. Wilke
