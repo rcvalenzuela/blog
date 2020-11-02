@@ -14,6 +14,7 @@ draft: false
 
 - [Depth first Learning](http://www.depthfirstlearning.com/)
 - [Lilian Weng](https://lilianweng.github.io/lil-log/)
+- [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
 
 ## Blog Posts
 
@@ -22,7 +23,7 @@ draft: false
   Jake VanderPlas
  - [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) Google Cloud
 
- ### Causal Analysis
+### Causal Analysis
 
  - [Pearl's Causal Ladder](http://smithamilli.com/blog/causal-ladder/)
 
@@ -34,6 +35,7 @@ draft: false
 
 ### People
 
+- [Elias Bareinboim](https://causalai.net/)
 - [Peter Norvig](www.norvig.com)
 - [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html)
 
@@ -116,10 +118,13 @@ draft: false
 
 ## Journals
 
+- [Annals of Statistics](https://projecteuclid.org/current/euclid.aos)
 - [Annals of Applied Probability](https://projecteuclid.org/info/euclid.aoap)
 - [Journal of Machine Learning Research](http://www.jmlr.org/)
 - [Synthesis Lectures on Artificial Intelligence and Machine Learning](https://www.morganclaypool.com/toc/aim/1/1)
 - [The American Statistician](https://www.tandfonline.com/toc/utas20/current)
+- [Technometrics](https://www.tandfonline.com/toc/utch20/current)
+- [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 
 ## Books
 
@@ -138,6 +143,7 @@ draft: false
 - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](
   https://web.stanford.edu/~boyd/vmls/) Stephen Boyd and Lieven Vandenberghe.
 - [Learning Bayesian Networks](http://www.cs.technion.ac.il/~dang/books/Learning%20Bayesian%20Networks(Neapolitan,%20Richard).pdf). Richard E. Neapolitan
+- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf). Marc Peiter Deisenroth, A. Aldo Faisal and Cheng Soon Ong
 - [Pro Git](https://git-scm.com/book/en/v2). Scott Chacon and Ben Straub
 - [Python Data Science Handbook](
   https://jakevdp.github.io/PythonDataScienceHandbook/). Jake VanderPlas
